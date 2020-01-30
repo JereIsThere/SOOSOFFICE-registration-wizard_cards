@@ -1,4 +1,10 @@
 <resources>
 	<string name="app_name">SOOSOFFICE registration wizard _cards</string>
 	<string name="str_tv_activitymain_cardtv">hallo das ist ein test</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="str_tv_myTextView_tv">bruh</string>
+	<string name="tv_myTextView_personName">soosoft CEO</string>
+	<string name="str_tv_myTextView_age">69 years old</string>
 </resources>
